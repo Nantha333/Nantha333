@@ -1,8 +1,4 @@
-# 👨‍💻 Hello, World! I'm **Nantha** 🌟
-
-Welcome to my **GitHub** profile! Here you can explore my **Web Development**, **Mobile Development**, **Backend Development**, and much more exciting things that I’m building with passion. This is a place where I share my knowledge, my projects, and my learning journey!
-
-I believe in **continuous learning** and **collaboration**—because that’s how we grow together. If you like what I do, don't forget to give a ⭐️ to the projects you like!
+"Hi, I'm Nantha! I'm a web and app developer, and an editor. I create websites, apps, and edit content to make them look great and easy to use
 
 ---
 

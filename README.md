@@ -1,25 +1,151 @@
-# Technologies I Use
+# 👋 Hey there! I'm Nantha 👨‍💻
 
-## Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+Welcome to my GitHub profile! I'm passionate about developing using the latest technologies. This is where I share my projects and collaborate with tech enthusiasts. Let’s dive in!
 
-## Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+---
 
-## Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+## 🚀 Technologies & Tools I Use
 
-## Databases & Systems
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
+### Frontend Development 🌐
 
-## Misc
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+<p align="center">
+  <!-- JavaScript Icon -->
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- React Icon -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- TypeScript Icon -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Vue.js Icon -->
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="80" height="80" class="tech-icon"/>
+  </a>
+</p>
+
+---
+
+### Backend Development 🖥️
+
+<p align="center">
+  <!-- Node.js Icon -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Express.js Icon -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- MongoDB Icon -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Docker Icon -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" class="tech-icon"/>
+  </a>
+</p>
+
+---
+
+### DevOps & Cloud 🌥️
+
+<p align="center">
+  <!-- AWS Icon -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Kubernetes Icon -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Heroku Icon -->
+  <a href="https://www.heroku.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="80" height="80" class="tech-icon"/>
+  </a>
+</p>
+
+---
+
+### Operating Systems 🖥️
+
+<p align="center">
+  <!-- Linux Icon -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" class="tech-icon"/>
+  </a>
+  <!-- Windows Icon -->
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="80" height="80" class="tech-icon"/>
+  </a>
+</p>
+
+---
+
+### Fun GIFs 🚀
+
+<p align="center">
+  <!-- Tech GIF -->
+  <img src="https://media.giphy.com/media/xT0BKmEYpJlJrNTmZI/giphy.gif" alt="Tech GIF" width="250"/>
+  <!-- Gaming GIF -->
+  <img src="https://media.giphy.com/media/3o6Zt7UXHTJ7h6U8ic/giphy.gif" alt="Gamer GIF" width="250"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nantha333&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🌍 Connect with Me!
+
+<a href="https://www.linkedin.com/in/nantha07" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Nantha333" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/nantha_17" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.youtube.com/results?search_query=fft+gamer" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+---
+
+## 📜 A Little Motivation
+
+> "The only way to do great work is to love what you do." – **Steve Jobs**
+
+---
+
+## 🌟 Hover Animation for Circular Icons
+
+To make these icons more interactive, here’s a **CSS** animation for **hover** effects that will scale and rotate the icons:
+
+```html
+<style>
+  .tech-icon {
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+
+  .tech-icon:hover {
+    transform: scale(1.2) rotate(10deg);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+
+  .tech-icon:active {
+    transform: scale(0.9);
+  }
+</style>
+
+
